@@ -1,6 +1,6 @@
 {
   "name": "@pacta-app/qrcode-react",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "React component to generate QRCode with logo",
   "main": "dist/index.js",
   "scripts": {
@@ -23,9 +23,6 @@
     "url": "https://github.com/pacta-app/qrcode-react/issues"
   },
   "homepage": "https://github.com/pacta-app/qrcode-react#readme",
-  "peerDependencies": {
-    "react": "0.12 - 16.2"
-  },
   "dependencies": {
     "qr.js": "0.0.0"
   },
