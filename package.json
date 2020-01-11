@@ -1,6 +1,6 @@
 {
   "name": "@pacta-app/qrcode-react",
-  "version": "0.9.1",
+  "version": "1.0.0",
   "description": "React component to generate QRCode with logo",
   "main": "dist/index.js",
   "scripts": {
@@ -32,8 +32,11 @@
     "babel-preset-react": "^6.1.18",
     "babelify": "^7.2.0",
     "prop-types": "^15.5.10",
-    "react": "^0.14.7",
-    "react-dom": "^0.14.3"
+    "react": "^16.3.0",
+    "react-dom": "^16.3.0"
+  },
+  "peerDependencies": {
+    "react": ">=16.3.0"
   },
   "directories": {
     "example": "example",
